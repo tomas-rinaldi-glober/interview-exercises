@@ -1,0 +1,2 @@
+// Write a TypeScript function to validate if a given 9x9 Sudoku board is valid. The rules are that each row, each column,
+// and each of the nine 3x3 sub-grids that compose the board must contain all the digits from 1 to 9 without repetition.
